@@ -1,0 +1,170 @@
+﻿[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "category": "assistant",
+    "vendor": "OpenAI",
+    "website": "https://openai.com/chatgpt/overview",
+    "description": "General-purpose AI assistant for chat, writing, and problem solving.",
+    "tags": ["chat", "general"],
+    "sources": ["https://openai.com/chatgpt/overview"]
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "category": "assistant",
+    "vendor": "Anthropic",
+    "website": "https://www.anthropic.com/claude",
+    "description": "AI assistant from Anthropic, available on web and desktop apps.",
+    "tags": ["chat", "general"],
+    "sources": [
+      "https://www.anthropic.com/claude",
+      "https://support.anthropic.com/en/articles/8114491-how-do-i-get-started-with-claude-ai"
+    ]
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "category": "assistant",
+    "vendor": "Google",
+    "website": "https://assistant.google.com/intl/en_en/platforms/phones/",
+    "description": "Google's AI assistant available via the Gemini app and Google Assistant experiences.",
+    "tags": ["chat", "mobile"],
+    "sources": [
+      "https://assistant.google.com/intl/en_en/platforms/phones/",
+      "https://apps.apple.com/us/app/google-gemini/id6477489729"
+    ]
+  },
+  {
+    "id": "microsoft-copilot",
+    "name": "Microsoft Copilot",
+    "category": "assistant",
+    "vendor": "Microsoft",
+    "website": "https://www.microsoft.com/microsoft-365/copilot",
+    "description": "AI productivity tools for work inside Microsoft 365 experiences.",
+    "tags": ["chat", "productivity"],
+    "sources": ["https://www.microsoft.com/microsoft-365/copilot"]
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "category": "assistant",
+    "vendor": "Perplexity",
+    "website": "https://www.perplexity.ai/about",
+    "description": "Answer engine that retrieves and cites information in responses.",
+    "tags": ["search", "citations"],
+    "sources": ["https://www.perplexity.ai/about"]
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "category": "vibe_coding",
+    "vendor": "Cursor",
+    "website": "https://www.trycursor.com/",
+    "description": "AI code editor with natural-language edits and codebase-aware assistance.",
+    "tags": ["ide", "coding"],
+    "sources": ["https://www.trycursor.com/"]
+  },
+  {
+    "id": "replit-agent",
+    "name": "Replit Agent",
+    "category": "vibe_coding",
+    "vendor": "Replit",
+    "website": "https://replit.com/ai",
+    "description": "Natural-language app builder that generates and deploys apps from prompts.",
+    "tags": ["app_builder", "no_code"],
+    "sources": [
+      "https://replit.com/ai",
+      "https://replit.com/products/agent"
+    ]
+  },
+  {
+    "id": "v0",
+    "name": "v0",
+    "category": "vibe_coding",
+    "vendor": "Vercel",
+    "website": "https://v0.app/",
+    "description": "AI app builder that generates UI and application code from prompts.",
+    "tags": ["ui", "app_builder"],
+    "sources": [
+      "https://v0.app/",
+      "https://vercel.com/blog/v0-app"
+    ]
+  },
+  {
+    "id": "bolt-new",
+    "name": "Bolt.new",
+    "category": "vibe_coding",
+    "vendor": "StackBlitz",
+    "website": "https://bolt.new/",
+    "description": "Prompt-to-app experience for building and running web apps in the browser.",
+    "tags": ["app_builder", "full_stack"],
+    "sources": ["https://github.com/stackblitz/bolt.new"]
+  },
+  {
+    "id": "windsurf",
+    "name": "Windsurf",
+    "category": "mcp_agent",
+    "vendor": "Windsurf",
+    "website": "https://windsurf.com/",
+    "description": "AI coding environment with agentic features and MCP support.",
+    "tags": ["ide", "mcp"],
+    "sources": [
+      "https://windsurf.com/",
+      "https://docs.windsurf.com/windsurf/cascade/mcp"
+    ]
+  },
+  {
+    "id": "claude-desktop",
+    "name": "Claude Desktop",
+    "category": "mcp_agent",
+    "vendor": "Anthropic",
+    "website": "https://www.anthropic.com/claude",
+    "description": "Desktop Claude app with MCP support.",
+    "tags": ["assistant", "mcp"],
+    "sources": [
+      "https://support.anthropic.com/en/articles/10065433-installing-claude-desktop",
+      "https://modelcontextprotocol.info/docs/clients/"
+    ]
+  },
+  {
+    "id": "continue",
+    "name": "Continue",
+    "category": "mcp_agent",
+    "vendor": "Continue",
+    "website": "https://docs.continue.dev/index",
+    "description": "Open-source AI coding assistant with MCP support.",
+    "tags": ["ide", "mcp"],
+    "sources": [
+      "https://github.com/continuedev/continue",
+      "https://docs.continue.dev/customize/deep-dives/mcp",
+      "https://modelcontextprotocol.info/docs/clients/"
+    ]
+  },
+  {
+    "id": "zed",
+    "name": "Zed",
+    "category": "mcp_agent",
+    "vendor": "Zed Industries",
+    "website": "https://zed.dev/",
+    "description": "High-performance code editor with built-in AI features and MCP support.",
+    "tags": ["ide", "mcp"],
+    "sources": [
+      "https://zed.dev/ai",
+      "https://modelcontextprotocol.info/docs/clients/"
+    ]
+  },
+  {
+    "id": "sourcegraph-cody",
+    "name": "Sourcegraph Cody",
+    "category": "mcp_agent",
+    "vendor": "Sourcegraph",
+    "website": "https://sourcegraph.com/cody",
+    "description": "AI coding assistant from Sourcegraph with MCP support.",
+    "tags": ["coding_assistant", "mcp"],
+    "sources": [
+      "https://sourcegraph.com/cody",
+      "https://modelcontextprotocol.info/docs/clients/"
+    ]
+  }
+]
