@@ -37,6 +37,9 @@
 - **Bolt.new** (`bolt-new`) – StackBlitz：Prompt-to-app experience for building and running web apps in the browser. 标签：`app_builder, full_stack` 网址：https://bolt.new/
 - **Vmind** (`vmind`) – MWM：Gemini-3-powered mind-map studio that asks the model to emit a JSON tree with at least 15 nodes and 3+ levels, then renders the topology via JointJS. 标签：`mindmap, agent, design` 网址：https://vmind.mwm.mom/
 - **LastPush** (`lastpush`) – LastPush：Dev-first deployment cockpit that pairs site/domain/billing navigation with wallet balance, activity logs, and deploy buttons so developers ship updates without leaving the dashboard. 标签：`deployment, platform, dev_tools` 网址：https://lastpush.xyz/
+- **eGBA Library** (`egba`) – eGBA：Chrome-hosted EmulatorJS-based GBA emulator with Features/Installation/Structure sections, GitHub download, and LocalStorage-backed SRAM saves that keep browser play sessions synced. 标签：`emulator, chrome, gaming` 网址：https://egba.mom/
+- **NostrLink** (`nostrlink`) – NostrLink：Secure decentralized messaging front end built with nostr-tools; generate or paste NSEC keys, then manage chats, polls, videos, and relay lists across Nostr event types from a minimalist dashboard. 标签：`nostr, messaging, decentralized` 网址：https://nostrlink.xyz/
+- **xer** (`xer`) – xer：Open-source Chrome extension copilot for X (Twitter) that collects timeline posts, drafts replies, suggests interactions, and ships built-in risk control plus local privacy analysis so you stay in control. 标签：`copilot, twitter, extension` 网址：https://xer.mwm.mom/
 
 ## mcp_agent
 - **Windsurf** (`windsurf`) – Windsurf：AI coding environment with agentic features and MCP support. 标签：`ide, mcp` 网址：https://windsurf.com/

@@ -591,6 +591,22 @@
     ]
   },
   {
+    "id": "xer",
+    "name": "xer",
+    "category": "vibe_coding",
+    "vendor": "xer",
+    "website": "https://xer.mwm.mom/",
+    "description": "Open-source Chrome extension copilot for X (Twitter) that collects timeline posts, drafts replies, suggests interactions, and ships built-in risk control plus local privacy analysis so users stay in control.",
+    "tags": [
+      "copilot",
+      "twitter",
+      "extension"
+    ],
+    "sources": [
+      "https://xer.mwm.mom/"
+    ]
+  },
+  {
     "id": "windsurf",
     "name": "Windsurf",
     "category": "mcp_agent",
