@@ -35,6 +35,8 @@
 - **Replit Agent** (`replit-agent`) – Replit：Natural-language app builder that generates and deploys apps from prompts. 标签：`app_builder, no_code` 网址：https://replit.com/ai
 - **v0** (`v0`) – Vercel：AI app builder that generates UI and application code from prompts. 标签：`ui, app_builder` 网址：https://v0.app/
 - **Bolt.new** (`bolt-new`) – StackBlitz：Prompt-to-app experience for building and running web apps in the browser. 标签：`app_builder, full_stack` 网址：https://bolt.new/
+- **Vmind** (`vmind`) – MWM：Gemini-3-powered mind-map studio that asks the model to emit a JSON tree with at least 15 nodes and 3+ levels, then renders the topology via JointJS. 标签：`mindmap, agent, design` 网址：https://vmind.mwm.mom/
+- **LastPush** (`lastpush`) – LastPush：Dev-first deployment cockpit that pairs site/domain/billing navigation with wallet balance, activity logs, and deploy buttons so developers ship updates without leaving the dashboard. 标签：`deployment, platform, dev_tools` 网址：https://lastpush.xyz/
 
 ## mcp_agent
 - **Windsurf** (`windsurf`) – Windsurf：AI coding environment with agentic features and MCP support. 标签：`ide, mcp` 网址：https://windsurf.com/
