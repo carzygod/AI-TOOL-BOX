@@ -78,5 +78,21 @@
     "sources": [
       "https://xer.mwm.mom/"
     ]
+  },
+  {
+    "id": "degenskill",
+    "name": "Degenskills",
+    "category": "vibe_coding",
+    "vendor": "Degenskills",
+    "website": "https://degenskill.fun/",
+    "description": "Crypto venture architect workspace that runs targeted or chaos agentic prompts against Gemini models to mint wild Web3 startup ideas, verify viability, and build tokenomic/roadmap/tech blueprints with a forge UI.",
+    "tags": [
+      "crypto",
+      "agent",
+      "blueprint"
+    ],
+    "sources": [
+      "https://degenskill.fun/"
+    ]
   }
 ]
